@@ -20,5 +20,3 @@ An **Activity Diagram** is a visual representation of workflows or processes in 
 - **System Understanding**: Helps stakeholders understand the workflow, decision points, and sequences of actions.
 - **Process Optimization**: Identifies bottlenecks or inefficiencies by examining the flow of control and decision points.
 - **Use Case Analysis**: Useful for modeling complex business processes and interactions within a system, especially in use case analysis.
-
-This brief guide provides an understanding of activity diagrams and how they can be utilized in system design and analysis.
